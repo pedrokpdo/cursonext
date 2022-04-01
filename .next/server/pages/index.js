@@ -105,7 +105,7 @@ module.exports = require("stripe");
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"name":"nextrs","version":"0.1.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start","lint":"next lint"},"dependencies":{"@types/next-auth":"^3.15.0","all":"0.0.0","next":"12.1.2","next-auth":"^4.3.1","react":"17.0.2","react-dom":"17.0.2","react-icons":"^4.3.1","sass":"^1.49.9","stripe":"^8.213.0"},"devDependencies":{"@types/node":"^17.0.23","@types/react":"^17.0.43","eslint":"8.12.0","eslint-config-next":"12.1.2","typescript":"^4.6.3"}}');
+module.exports = JSON.parse('{"name":"nextrs","version":"0.1.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start","lint":"next lint"},"dependencies":{"@types/next-auth":"^3.15.0","all":"0.0.0","faunadb":"^4.5.4","next":"12.1.2","next-auth":"^4.3.1","react":"17.0.2","react-dom":"17.0.2","react-icons":"^4.3.1","sass":"^1.49.9","stripe":"^8.213.0"},"devDependencies":{"@types/node":"^17.0.23","@types/react":"^17.0.43","eslint":"8.12.0","eslint-config-next":"12.1.2","fauna":"^0.4.1","typescript":"^4.6.3"}}');
 
 /***/ })
 
