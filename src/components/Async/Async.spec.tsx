@@ -3,6 +3,7 @@ import { Async } from '.'
 
 test('Its renders correctly', async () => {
     render(<Async />)
+    
     expect(screen.getByText('Hello Word')).toBeInTheDocument()
     
   //  await waitForElementToBeRemoved(screen.queryByText)
